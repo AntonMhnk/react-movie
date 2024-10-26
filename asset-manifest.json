@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//AntonMhnk.github.io/react-movie/static/css/main.5ce3cefa.css",
+    "main.js": "/https//AntonMhnk.github.io/react-movie/static/js/main.6194f1e8.js",
+    "index.html": "/https//AntonMhnk.github.io/react-movie/index.html",
+    "main.5ce3cefa.css.map": "/https//AntonMhnk.github.io/react-movie/static/css/main.5ce3cefa.css.map",
+    "main.6194f1e8.js.map": "/https//AntonMhnk.github.io/react-movie/static/js/main.6194f1e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ce3cefa.css",
+    "static/js/main.6194f1e8.js"
+  ]
+}
