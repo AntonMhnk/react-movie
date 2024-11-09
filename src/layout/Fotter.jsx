@@ -1,12 +1,21 @@
 function Footer() {
-    return <footer className="page-footer blue">
-    <div className="footer-copyright">
-      <div className="container">
-      © 2019-{new Date().getFullYear()} Copyright Text
-      <a className="grey-text text-lighten-4 right" href="https://github.com/AntonMhnk/react-movie/tree/main" target="_blank" rel="noreferrer">Repo</a>
-      </div>
-    </div>
-  </footer>
-};
+	return (
+		<footer className="page-footer blue">
+			<div className="footer-copyright">
+				<div className="container">
+					© 2019-{new Date().getFullYear()} Copyright Text
+					<a
+						className="grey-text text-lighten-4 right"
+						href="https://github.com/AntonMhnk/react-movie/tree/main"
+						target="_blank"
+						rel="noreferrer"
+					>
+						Repo
+					</a>
+				</div>
+			</div>
+		</footer>
+	);
+}
 
-export {Footer}
+export { Footer };
